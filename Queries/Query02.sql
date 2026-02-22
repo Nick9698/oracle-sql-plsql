@@ -1,0 +1,3 @@
+--
+SELECT DUMMY FROM DUAL;
+--
